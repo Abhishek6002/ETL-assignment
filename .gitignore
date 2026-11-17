@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dataset files
+stack-overflow-developer-survey-2019/*.csv
